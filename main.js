@@ -88,3 +88,22 @@
 //     console.log(`men xar kuni kechqurun ${tel}imni uxlashdan oldin ${usb}ga qo'yib uxlayman`);
 // }
 // telnizaryadlash("telefon", "zaryadlash qurilmasi");
+
+// const isAdult = true;
+// const hasTicket = true;
+// console.log(isAdult && hasTicket);
+
+// const isAdult = true;
+// const hasTicket = false;
+// // console.log(isAdult || hasTicket);
+// const age = 20;
+// const hasTicket = true;
+
+// console.log(age >= 18 && hasTicket);
+
+// const result = 10 + 5 * 2;
+// console.log(result);
+
+let ism = "jaxon"
+let num = 15
+console.log(undefined || null);
