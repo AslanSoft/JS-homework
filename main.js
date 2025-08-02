@@ -104,6 +104,6 @@
 // const result = 10 + 5 * 2;
 // console.log(result);
 
-let ism = "jaxon"
-let num = 15
-console.log(undefined || null);
+// let ism = "jaxon"
+// let num = 15
+// console.log(undefined || null);
