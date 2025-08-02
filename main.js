@@ -107,3 +107,25 @@
 // let ism = "jaxon"
 // let num = 15
 // console.log(undefined || null);
+
+// let global_scope = 15
+// console.log(global_scope);
+
+// local scope
+
+// function Hello(){
+//     let salom = "salom"
+// }
+// console.log("salom");
+
+// function evenOrOdd(number) {
+//  let number = 14;
+//  if( >= 16){
+//    console.log(biggest);
+//  }
+//   else{
+//     console.log(smallest);
+//   }
+// }
+// evenOrOdd();
+
