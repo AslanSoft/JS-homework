@@ -129,3 +129,10 @@
 // }
 // evenOrOdd();
 
+let productPrice = 100;
+let hasTicket = true;
+let memberTicket = true;
+
+if (productPrice + hasTicket - 0.90){
+    console.log("chegirma qo'shildi" + productPrice);
+}
