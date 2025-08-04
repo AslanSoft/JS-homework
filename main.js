@@ -129,10 +129,33 @@
 // }
 // evenOrOdd();
 
-let productPrice = 100;
-let hasTicket = true;
-let memberTicket = true;
+// let productPrice = 100;
+// let hasTicket = true;
+// let memberTicket = true;
 
-if (productPrice + hasTicket - 0.90){
-    console.log("chegirma qo'shildi" + productPrice);
+// if (productPrice + hasTicket - 0.90){
+//     console.log("chegirma qo'shildi" + productPrice);
+// }
+
+let number = 2;
+let output;
+
+switch(number){
+    case 1:
+        output = 'bir';
+        break;
+
+    case 2:
+        output = 'ikki';
+        break;
+        
+    case 3:
+        output = 'uch';
+        break;
+        
+    default:
+        output = 'uxxx';
+        break;
 }
+
+console.log(`Qiymat: ${output}`);
